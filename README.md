@@ -10,7 +10,7 @@ Each project demonstrates key Python skills including GUI development using tkin
 
 A simple GUI-based To-Do List application using Python's tkinter library. It allows users to add, delete, and clear tasks during a session.
 
-📁 Folder: /Task1-TodoList-GUI
+📁 Folder: https://github.com/Bhoomiisback/CODSOFT/blob/main/todo.py
 
 ---
 
@@ -18,7 +18,7 @@ A simple GUI-based To-Do List application using Python's tkinter library. It all
 
 A basic GUI calculator that performs arithmetic operations like addition, subtraction, multiplication, and division.
 
-📁 Folder: /Task2-Calculator
+📁 Folder: https://github.com/Bhoomiisback/CODSOFT/blob/main/todo.py
 
 ---
 
@@ -26,7 +26,7 @@ A basic GUI calculator that performs arithmetic operations like addition, subtra
 
 A fun Rock-Paper-Scissors game where the user competes against the computer with randomized responses.
 
-📁 Folder: /Task3-RockPaperScissors
+📁 Folder: https://github.com/Bhoomiisback/CODSOFT/blob/main/Rock%2CPaper%2CScissor.py
 
 ---
 
